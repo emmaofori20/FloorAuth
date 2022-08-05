@@ -1,0 +1,16 @@
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.exe
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.deps.json
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.runtimeconfig.json
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.runtimeconfig.dev.json
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.dll
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\ref\FloorAuth.dll
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\bin\Debug\net5.0\FloorAuth.pdb
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.csproj.AssemblyReference.cache
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.AssemblyInfoInputs.cache
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.AssemblyInfo.cs
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.csproj.CoreCompileInputs.cache
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.dll
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\ref\FloorAuth.dll
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.pdb
+C:\Users\AMPONSAH\Desktop\Authorisation\FloorAuth\FloorAuth\obj\Debug\net5.0\FloorAuth.genruntimeconfig.cache
